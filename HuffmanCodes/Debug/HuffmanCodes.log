@@ -1,0 +1,4 @@
+﻿  HuffmanCodes.cpp
+d:\develop\andorid\visual_studio_2017_workspace\projects\huffmancodes\huffmancodes\huffmancodes.cpp(125): warning C4018: '<=': signed/unsigned mismatch
+  HuffmanCodes.vcxproj -> D:\Develop\Andorid\Visual_Studio_2017_WorkSpace\Projects\HuffmanCodes\Debug\HuffmanCodes.exe
+  HuffmanCodes.vcxproj -> D:\Develop\Andorid\Visual_Studio_2017_WorkSpace\Projects\HuffmanCodes\Debug\HuffmanCodes.pdb (Partial PDB)
